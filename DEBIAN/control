@@ -1,0 +1,7 @@
+Package: quanlythuvien
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Phu Nguyen
+Description: Phần mềm quản lý thư viện code bằng ngôn ngữ C# ver 1.0.0 original.
